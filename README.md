@@ -1,6 +1,4 @@
-
-
-# Flutter - Resizable TextformField Widget In a Flutter
+Resizable TextformField Widget In a Flutter
 
 ## About Me
 5+ years experience as a programmer
